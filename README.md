@@ -20,7 +20,6 @@ Initial analyses involved plotting waveforms and spectrograms of the audio files
 
 Feature Extraction
 Using the LibROSA library, features were extracted from the audio to facilitate model learning. Key steps included timing each file to 3 seconds for uniformity and doubling the sampling rate to enrich the feature set.
-![feature](https://github.com/rhea-mal/semantics/assets/70975260/917de25f-5dad-438a-8ec5-7ba8e9d9694d)
 
 
 ## Models
