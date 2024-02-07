@@ -5,7 +5,7 @@ Including parser, word2vec model, and machine translation modules as well.
 
 * Emotion Detection in Speech modifies existing codebase to identify emotions from spoken language. 
 ## Analyzing audio signals
-![](images/joomla_speech_prosody.png?raw=true)
+![IMG_5924](https://github.com/rhea-mal/semantics/assets/70975260/5fec2faf-5d78-4d3b-9f83-8937cf7a228d)
 
 ### Datasets:
 The foundation of this model is built on two datasets:
