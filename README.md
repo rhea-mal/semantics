@@ -6,9 +6,6 @@
 ## Analyzing audio signals
 ![](images/joomla_speech_prosody.png?raw=true)
 
-[©Fabien_Ringeval_PhD_Thesis](https://drive.google.com/file/d/0B2V_I9XKBODhcEtZV1lRWW1fYTg/view).
-<br>
-
 ### Datasets:
 The foundation of our model is built on two key datasets:
 1. [RAVDESS](https://zenodo.org/record/1188976).
